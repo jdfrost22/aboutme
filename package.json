@@ -1,0 +1,25 @@
+{
+  "name": "codeyou_exercises",
+  "version": "1.0.0",
+  "description": "## Overview In this assignment, you will create a simple \"About Me\" page using some basic elements. **You must complete the tasks**, but if you want to practice any CSS that you've learned on your own time, feel free to do so.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdfrost22/aboutme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdfrost22/aboutme/issues"
+  },
+  "homepage": "https://github.com/jdfrost22/aboutme#readme",
+  "dependencies": {
+    "forrest": "^3.19.0",
+    "gumdrop": "^4.2.1",
+    "hawk": "^9.0.2",
+    "sunset": "^0.2.0"
+  }
+}
