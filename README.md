@@ -29,7 +29,7 @@ Inside `index.html`:
 - [x] Inside your unordered list, create 3 `<li>` tags to list your hobbies.
 - [x] After your unordered list, create a `<h2>` tag with the content of `My Goals for 2025`.
 - [x] Create an ordered list underneath your `<h2>`.
-- [ ] Inside your ordered list, create 3 `<li>` tags to list your goals.
+- [x] Inside your ordered list, create 3 `<li>` tags to list your goals.
 
 
 
@@ -44,4 +44,4 @@ Inside `index.html`:
 
 ### Submitting Your Work
 
-After completing the assignment, make sure to commit your changes and push them back to your own repository and turn in the GitHub link in Open Class
+After completing the assignment, make sure to commit your changes and push them back to your own repository and turn in the GitHub link in Open Class# correct-the-html-clone
